@@ -68,6 +68,12 @@ footer a {
     position: relative;
 
 }
+.hero-secondary {
+    margin:20px;
+    background-color:black;
+    font-size:20px;
+    color: red;
+}
 .hero-form {
     background-color: #fce138;
     padding: 20px;
