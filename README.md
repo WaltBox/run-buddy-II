@@ -14,3 +14,6 @@ file:///Users/walt/Desktop/projects/run-buddy-repo/run-buddy-II/index.html#
 Made with <3 by Walt Boxwell
 
 ### ©2019 Run Buddy, Inc
+
+### No idea what I am doing
+
